@@ -1,0 +1,197 @@
+section
+{
+    width: 100%;
+    float: left;
+}
+body
+{
+    margin: 0px ;
+}
+.contaner
+{
+    width: 1170px;
+    margin: auto;
+}
+.sec1
+{
+    background-image: url(image/bg_background1.PNG);
+    background-size: cover;
+    padding: 0px 0px 100px 0px;
+}
+.bg_area {
+    float: left;
+    width: 100%;
+    margin-top: 15px;
+}
+.logo
+{
+    float: left;
+    width: 35%;
+}
+.navbar
+{
+    float: right;
+}
+.navbar-nav
+{
+    float: right;
+    width: 100%;
+}
+
+.navbar-nav li{
+    list-style: none;
+    padding: 15px;
+    float: right;
+}
+.navbar-nav li a{
+    float: left;
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+
+
+}
+.title {
+    float: left;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}
+.title h1{
+    font-size: 48px;
+
+}
+.btn
+{   font-size: 18px;
+    background-color: red !important;
+    border: none;
+    text-transform: uppercase;
+    color: #fff !important;
+    width: 170px;
+     margin-top: 30px;
+}
+.bg_button
+{
+    text-align: center;
+    width: 100%;
+ }
+.box1
+{
+    float: left;
+    width: 95%;
+}
+.box01
+{   width: 25%;
+    float: left;
+    text-align: center;
+    margin: 45px;
+}
+
+.sec2
+{
+    width: 100%;
+}
+.sec3
+{
+    width: 100%;
+}
+.box02
+{
+    float: left;
+    width: 25%;
+}
+.box02 img
+{
+    width: 100%;
+    height: auto;
+}
+.box01 i{
+    font-size: 50px;
+    color: red;
+}
+.box03 {
+    display: inline-block;
+    margin: 9px;
+    text-align: center;
+    width: 23%;
+}
+
+.bg_girl
+{
+    width: 50%;
+    float: left;
+}
+.bg_girl img{
+    width: 100%;
+    height: auto;
+}
+.text1
+{   line-height: 78px;
+    
+    float: left;
+    background-color: #53354a;
+    width: 50%;
+    font-size: 45px;
+    color: #ffff;
+}
+.text1 p
+{
+    margin-left: 6%;
+}
+.text1 h4 {
+    font-size: 17px;
+    margin-left: 6%;
+}
+.sec6
+{
+    width: 100%;
+}
+.text2
+{
+    text-align: center;
+}
+.text2 h5
+{
+    font-size: 23px;
+}
+.text2 h6{
+    font-size: 16px;
+}
+.bg_button1
+{
+    font-size: 10px;
+    
+    text-align: center;
+    width: 100%;
+}
+.bg_area7
+{   margin-top: 10px;
+    float: left;
+    width: 100%;
+    background-color:#3a3e64;
+    color: #fff;
+}
+.t3
+{   margin-top: 10px;
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+.t4
+{   margin-top: 10px;
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+.t5
+{   margin-top: 10px;
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+.t4 i{
+    color: #fff;
+    font-size: 40px;
+}

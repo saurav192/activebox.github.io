@@ -1,0 +1,191 @@
+@media screen and (max-width:1186px)
+{
+.contaner{
+    width: 100%;
+}
+.bg_area,.title,.bg_button
+{
+    width: 100%;
+}
+.text1
+{
+    line-height: 39px;
+    font-size: 43px;
+}
+
+}
+
+
+@media screen and (max-width:991px)
+{
+    .manu {
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        width: 100%;
+    }
+    .navbar-dark .navbar-toggler {
+        position: absolute;
+        top: 0px;
+        right: 0;
+    }
+    .navbar-nav li {
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        border-bottom: 1px solid #ccc;
+    }
+}
+    
+
+
+@media screen and (max-width:600px)
+{
+    .navbar-nav
+    {
+        margin-top: 35px;
+    }
+
+    .title
+    {
+        margin-top: 30px;
+    }
+    .box03 {
+        display: inherit;
+        margin: auto;
+        text-align: center;
+        width: 350px;
+        
+    }
+    .logo {
+        float: none;
+        margin: auto;
+        width: 28%;
+    }
+    .navbar {
+        margin-top: 25px;
+        width: 100%;
+        float: right;
+    }
+    .box01 {
+         float: none; 
+        text-align: center;
+        margin: auto;
+    }
+    .box1 {
+         float: none;
+    }
+    .box02 {
+        float: left;
+        width: 50%;
+    }
+    .bg_girl {
+        width: 100%;
+        float: left;
+    }
+    .text1 {
+        line-height: 32px;
+        float: left;
+        background-color: #53354a;
+        width: 100%;
+        font-size: 32px;
+        color: #ffff;
+    }
+    .t5 {
+        margin-top: 50px;
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .t4 {
+        margin-top: 50px;
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .t3 {
+        margin-top: 10px;
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+}
+@media screen and (max-width:350px)
+{
+    .navbar-nav li {
+       background-color: black;
+    }
+    .navbar-nav
+    {
+        margin-top: 33px;
+    }
+
+        .title h1
+        {
+            font-size: 37px;
+        }
+
+    .box03 {
+        display: inherit;
+        margin: auto;
+        text-align: center;
+        width: 350px;
+        
+    }
+    .logo {
+        float: none;
+        margin: auto;
+        width: 50%;
+    }
+    .navbar {
+        margin-top: 25px;
+        width: 100%;
+        float: right;
+        margin-right: 15%;
+    }
+    .box01 {
+         float: none; 
+        text-align: center;
+        margin: auto;
+    }
+    .box1 {
+         float: none;
+    }
+    .box02 {
+        float: left;
+        width: 50%;
+    }
+    .bg_girl {
+        width: 100%;
+        float: left;
+    }
+    .text1 {
+        line-height: 32px;
+        float: left;
+        background-color: #53354a;
+        width: 100%;
+        font-size: 32px;
+        color: #ffff;
+    }
+    .t5 {
+        margin-top: 50px;
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .t4 {
+        margin-top: 50px;
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .t3 {
+        margin-top: 10px;
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+
+}
+
